@@ -1,5 +1,5 @@
 {
-    "name":        "ruudk/moneybird-bundle",
+    "name":        "jaspoor/moneybird-bundle",
     "type":        "symfony-bundle",
     "description": "A Symfony2 bundle for working with Moneybird",
     "keywords":    ["moneybird", "symfony2"],
